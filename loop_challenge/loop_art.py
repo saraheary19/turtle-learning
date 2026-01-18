@@ -1,4 +1,4 @@
-from art_engine import setup
+from loop_libraries.art_engine import setup
 
 # Setup the drawing environment
 blueTurtle, screen = setup()

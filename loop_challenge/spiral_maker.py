@@ -1,5 +1,5 @@
 import random
-from spiral_engine import setup
+from loop_libraries.spiral_engine import setup
 
 # Setup the drawing environment
 artist, screen = setup()
